@@ -1,0 +1,2 @@
+Burda bir yapılan bir mvc uygulamasında test methodlarım mevcut 
+(Program çalıştırılınca (/products) ıp'si ile sunucu içindeki ek sayfaya erişim sağlayabilirsin)

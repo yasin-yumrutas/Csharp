@@ -1,0 +1,1 @@
+Burdaki yapı dotnet 6.0 yapısıdır. Main kısmında sorun yaşadım (hazır ürün bulunmamakta)

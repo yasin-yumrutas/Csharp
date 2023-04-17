@@ -1,0 +1,1 @@
+Burda static yapıda basit bir mvc projemiz var(Projenin içine girince (/default/index) ile ek sayfaya ulaşım sağlayabilirsin
