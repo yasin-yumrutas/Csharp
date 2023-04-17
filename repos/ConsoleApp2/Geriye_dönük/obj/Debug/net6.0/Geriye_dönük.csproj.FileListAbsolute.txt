@@ -1,0 +1,15 @@
+C:\Users\yasin\source\repos\ConsoleApp2\Geriye_dönük\obj\Debug\net6.0\Geriye_dönük.csproj.AssemblyReference.cache
+C:\Users\yasin\source\repos\ConsoleApp2\Geriye_dönük\obj\Debug\net6.0\Geriye_dönük.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasin\source\repos\ConsoleApp2\Geriye_dönük\obj\Debug\net6.0\Geriye_dönük.AssemblyInfoInputs.cache
+C:\Users\yasin\source\repos\ConsoleApp2\Geriye_dönük\obj\Debug\net6.0\Geriye_dönük.AssemblyInfo.cs
+C:\Users\yasin\source\repos\ConsoleApp2\Geriye_dönük\obj\Debug\net6.0\Geriye_dönük.csproj.CoreCompileInputs.cache
+C:\Users\yasin\source\repos\ConsoleApp2\Geriye_dönük\bin\Debug\net6.0\Geriye_dönük.exe
+C:\Users\yasin\source\repos\ConsoleApp2\Geriye_dönük\bin\Debug\net6.0\Geriye_dönük.deps.json
+C:\Users\yasin\source\repos\ConsoleApp2\Geriye_dönük\bin\Debug\net6.0\Geriye_dönük.runtimeconfig.json
+C:\Users\yasin\source\repos\ConsoleApp2\Geriye_dönük\bin\Debug\net6.0\Geriye_dönük.dll
+C:\Users\yasin\source\repos\ConsoleApp2\Geriye_dönük\bin\Debug\net6.0\Geriye_dönük.pdb
+C:\Users\yasin\source\repos\ConsoleApp2\Geriye_dönük\obj\Debug\net6.0\Geriye_dönük.dll
+C:\Users\yasin\source\repos\ConsoleApp2\Geriye_dönük\obj\Debug\net6.0\refint\Geriye_dönük.dll
+C:\Users\yasin\source\repos\ConsoleApp2\Geriye_dönük\obj\Debug\net6.0\Geriye_dönük.pdb
+C:\Users\yasin\source\repos\ConsoleApp2\Geriye_dönük\obj\Debug\net6.0\Geriye_dönük.genruntimeconfig.cache
+C:\Users\yasin\source\repos\ConsoleApp2\Geriye_dönük\obj\Debug\net6.0\ref\Geriye_dönük.dll

@@ -1,0 +1,15 @@
+C:\Users\yasin\source\repos\BackEndFiles\BackEndFiles\bin\Debug\net6.0\BackEndFiles.exe
+C:\Users\yasin\source\repos\BackEndFiles\BackEndFiles\bin\Debug\net6.0\BackEndFiles.deps.json
+C:\Users\yasin\source\repos\BackEndFiles\BackEndFiles\bin\Debug\net6.0\BackEndFiles.runtimeconfig.json
+C:\Users\yasin\source\repos\BackEndFiles\BackEndFiles\bin\Debug\net6.0\BackEndFiles.dll
+C:\Users\yasin\source\repos\BackEndFiles\BackEndFiles\bin\Debug\net6.0\BackEndFiles.pdb
+C:\Users\yasin\source\repos\BackEndFiles\BackEndFiles\obj\Debug\net6.0\BackEndFiles.csproj.AssemblyReference.cache
+C:\Users\yasin\source\repos\BackEndFiles\BackEndFiles\obj\Debug\net6.0\BackEndFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasin\source\repos\BackEndFiles\BackEndFiles\obj\Debug\net6.0\BackEndFiles.AssemblyInfoInputs.cache
+C:\Users\yasin\source\repos\BackEndFiles\BackEndFiles\obj\Debug\net6.0\BackEndFiles.AssemblyInfo.cs
+C:\Users\yasin\source\repos\BackEndFiles\BackEndFiles\obj\Debug\net6.0\BackEndFiles.csproj.CoreCompileInputs.cache
+C:\Users\yasin\source\repos\BackEndFiles\BackEndFiles\obj\Debug\net6.0\BackEndFiles.dll
+C:\Users\yasin\source\repos\BackEndFiles\BackEndFiles\obj\Debug\net6.0\refint\BackEndFiles.dll
+C:\Users\yasin\source\repos\BackEndFiles\BackEndFiles\obj\Debug\net6.0\BackEndFiles.pdb
+C:\Users\yasin\source\repos\BackEndFiles\BackEndFiles\obj\Debug\net6.0\BackEndFiles.genruntimeconfig.cache
+C:\Users\yasin\source\repos\BackEndFiles\BackEndFiles\obj\Debug\net6.0\ref\BackEndFiles.dll

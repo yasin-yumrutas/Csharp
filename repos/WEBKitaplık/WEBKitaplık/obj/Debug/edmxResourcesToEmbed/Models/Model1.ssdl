@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BookBlogModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Kategori">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="KategoriAd" Type="varchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="Kitap">
+    <Key>
+      <PropertyRef Name="KitapId" />
+    </Key>
+    <Property Name="KitapId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Ad" Type="varchar" MaxLength="50" />
+    <Property Name="Sayfa" Type="varchar" MaxLength="4" />
+    <Property Name="Yazar" Type="varchar" MaxLength="20" />
+    <Property Name="Kategori" Type="int" />
+  </EntityType>
+  <Association Name="FK_Kitap_Kategori">
+    <End Role="Kategori" Type="Self.Kategori" Multiplicity="0..1" />
+    <End Role="Kitap" Type="Self.Kitap" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kategori">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Kitap">
+        <PropertyRef Name="Kategori" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BookBlogModelStoreContainer">
+    <EntitySet Name="Kategori" EntityType="Self.Kategori" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kitap" EntityType="Self.Kitap" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Kitap_Kategori" Association="Self.FK_Kitap_Kategori">
+      <End Role="Kategori" EntitySet="Kategori" />
+      <End Role="Kitap" EntitySet="Kitap" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

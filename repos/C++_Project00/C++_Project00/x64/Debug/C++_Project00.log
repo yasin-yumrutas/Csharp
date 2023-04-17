@@ -1,0 +1,7 @@
+﻿  HelloWorld.cpp
+C:\Users\yasin\source\repos\C++_Project00\C++_Project00\HelloWorld.cpp(13,9): error C3646: 'renk': unknown override specifier
+C:\Users\yasin\source\repos\C++_Project00\C++_Project00\HelloWorld.cpp(13,13): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\yasin\source\repos\C++_Project00\C++_Project00\HelloWorld.cpp(124,13): error C2039: 'renk': is not a member of 'Otomobil'
+C:\Users\yasin\source\repos\C++_Project00\C++_Project00\HelloWorld.cpp(11): message : see declaration of 'Otomobil'
+C:\Users\yasin\source\repos\C++_Project00\C++_Project00\HelloWorld.cpp(125,21): error C2039: 'renk': is not a member of 'Otomobil'
+C:\Users\yasin\source\repos\C++_Project00\C++_Project00\HelloWorld.cpp(11): message : see declaration of 'Otomobil'

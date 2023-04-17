@@ -1,0 +1,10 @@
+C:\Users\yasin\source\repos\MuratYücedag\BuisnessLayer\bin\Debug\BuisnessLayer.dll
+C:\Users\yasin\source\repos\MuratYücedag\BuisnessLayer\bin\Debug\BuisnessLayer.pdb
+C:\Users\yasin\source\repos\MuratYücedag\BuisnessLayer\obj\Debug\BuisnessLayer.csproj.AssemblyReference.cache
+C:\Users\yasin\source\repos\MuratYücedag\BuisnessLayer\obj\Debug\BuisnessLayer.csproj.CoreCompileInputs.cache
+C:\Users\yasin\source\repos\MuratYücedag\BuisnessLayer\obj\Debug\BuisnessLayer.dll
+C:\Users\yasin\source\repos\MuratYücedag\BuisnessLayer\obj\Debug\BuisnessLayer.pdb
+C:\Users\yasin\source\repos\MuratYücedag\BuisnessLayer\bin\Debug\EntityLayer.dll
+C:\Users\yasin\source\repos\MuratYücedag\BuisnessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\yasin\source\repos\MuratYücedag\BuisnessLayer\bin\Debug\EntityLayer.dll.config
+C:\Users\yasin\source\repos\MuratYücedag\BuisnessLayer\obj\Debug\BuisnessLayer.csproj.CopyComplete

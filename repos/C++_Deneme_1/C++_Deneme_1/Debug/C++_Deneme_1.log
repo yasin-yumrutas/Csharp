@@ -1,0 +1,2 @@
+﻿C++_Deneme_2.obj : error LNK2001: unresolved external symbol "private: static unsigned int ComplexT::sayac" (?sayac@ComplexT@@0IA)
+C:\Users\yasin\source\repos\C++_Deneme_1\Debug\C++_Deneme_1.exe : fatal error LNK1120: 1 unresolved externals

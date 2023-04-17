@@ -1,0 +1,10 @@
+C:\Users\yasin\source\repos\UdemyxUnitTest\UdemyUnitTest.App\bin\Debug\netcoreapp3.1\UdemyUnitTest.App.deps.json
+C:\Users\yasin\source\repos\UdemyxUnitTest\UdemyUnitTest.App\bin\Debug\netcoreapp3.1\UdemyUnitTest.App.dll
+C:\Users\yasin\source\repos\UdemyxUnitTest\UdemyUnitTest.App\bin\Debug\netcoreapp3.1\UdemyUnitTest.App.pdb
+C:\Users\yasin\source\repos\UdemyxUnitTest\UdemyUnitTest.App\obj\Debug\netcoreapp3.1\UdemyUnitTest.App.csproj.AssemblyReference.cache
+C:\Users\yasin\source\repos\UdemyxUnitTest\UdemyUnitTest.App\obj\Debug\netcoreapp3.1\UdemyUnitTest.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasin\source\repos\UdemyxUnitTest\UdemyUnitTest.App\obj\Debug\netcoreapp3.1\UdemyUnitTest.App.AssemblyInfoInputs.cache
+C:\Users\yasin\source\repos\UdemyxUnitTest\UdemyUnitTest.App\obj\Debug\netcoreapp3.1\UdemyUnitTest.App.AssemblyInfo.cs
+C:\Users\yasin\source\repos\UdemyxUnitTest\UdemyUnitTest.App\obj\Debug\netcoreapp3.1\UdemyUnitTest.App.csproj.CoreCompileInputs.cache
+C:\Users\yasin\source\repos\UdemyxUnitTest\UdemyUnitTest.App\obj\Debug\netcoreapp3.1\UdemyUnitTest.App.dll
+C:\Users\yasin\source\repos\UdemyxUnitTest\UdemyUnitTest.App\obj\Debug\netcoreapp3.1\UdemyUnitTest.App.pdb

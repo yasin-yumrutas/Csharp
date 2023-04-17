@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BookBlogModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Kategori">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="KategoriAd" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="Kitap" Relationship="Self.FK_Kitap_Kategori" FromRole="Kategori" ToRole="Kitap" />
+  </EntityType>
+  <EntityType Name="Kitap">
+    <Key>
+      <PropertyRef Name="KitapId" />
+    </Key>
+    <Property Name="KitapId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ad" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="Sayfa" Type="String" MaxLength="4" FixedLength="false" Unicode="false" />
+    <Property Name="Yazar" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="Kategori" Type="Int32" />
+    <NavigationProperty Name="Kategori1" Relationship="Self.FK_Kitap_Kategori" FromRole="Kitap" ToRole="Kategori" />
+  </EntityType>
+  <Association Name="FK_Kitap_Kategori">
+    <End Role="Kategori" Type="Self.Kategori" Multiplicity="0..1" />
+    <End Role="Kitap" Type="Self.Kitap" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kategori">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Kitap">
+        <PropertyRef Name="Kategori" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BookBlogEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Kategori" EntityType="Self.Kategori" />
+    <EntitySet Name="Kitap" EntityType="Self.Kitap" />
+    <AssociationSet Name="FK_Kitap_Kategori" Association="Self.FK_Kitap_Kategori">
+      <End Role="Kategori" EntitySet="Kategori" />
+      <End Role="Kitap" EntitySet="Kitap" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
